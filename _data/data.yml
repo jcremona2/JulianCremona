@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Julian Cremona
-  tagline: Electronic Engineer specialized on IT and Software
+  tagline: Electronic Engineer specialized in IT and Software
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -41,7 +41,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Electronic Engineer specialized on IT and Software
+    Electronic Engineer specialized in IT and Software
 education:
   
   title: Education
