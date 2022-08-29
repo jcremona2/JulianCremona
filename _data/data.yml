@@ -146,20 +146,23 @@ skills:
 
   toolset:
     - name: Python & Django
-      level: Advance
+      level: 70%
 
     - name: Javascript & jQuery
-      level: Basic
+      level: 60%
 
     - name: HTML5 & CSS
-      level: Basic
+      level: 60%
 
     - name: SQL
-      level: Basic
+      level: 50%
 
     - name: Docker
-      level: Basic
+      level: 50%
+
+    - name: AWS
+      level: 40%
 
     - name: Sketch & Photoshop
-      level: Basic
+      level: 40%
 
