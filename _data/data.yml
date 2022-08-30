@@ -65,18 +65,6 @@ education:
           - Testing and debugging of programs: Design of experiments. Exception handling. Flow control.
           - Introduction to the complexity of algorithms: Concept of complexity. search algorithms Classification algorithms.
           - Applications of programming: Scientific applications. engineering applications.
-        
-    - degree: First Certificate in English (FCE) 
-      university: Cambridge College
-      time: 2011 -2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
           
     - degree: Diploma in Web programming Full stack with React JS
       university: National Technological University of Buenos Aires 
@@ -91,8 +79,8 @@ education:
       institute: skillsoft
       time: 2021 - 2022
       details: |
-        Among the topics covered in this Journey are key programming fundamental concepts such as Object-Oriented Programming (OOP), databases, 
-        and Software Development Life Cycle (SDLC) phases and models. In addition, the Developer Fundamentals Aspire Journey introduces concepts 
+        Among the topics covered in the course are key programming fundamental concepts such as Object-Oriented Programming (OOP), databases, 
+        and Software Development Life Cycle (SDLC) phases and models. In addition, the Developer Fundamentals Aspire course introduces concepts 
         related to software design and development principles.
         
 experiences:
