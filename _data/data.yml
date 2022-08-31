@@ -16,7 +16,7 @@ sidebar:
   phone: +54 9 221 3198719
   timezone: GMT-3 Timezone
   citizenship: Argentina
-  linkedin: jcremona
+  linkedin: juliancremona
   github: jcremona2
   stack-overflow: 18376131/julian-cremona
 
@@ -57,8 +57,8 @@ education:
     - degree: Postgraduate Degree in Python Programming
       university: National University of San Martin
       time: 2020 - 2021
-      details: |
-        Python postgraduate Degree:
+      details: 
+       Python postgraduate Degree:
           - Control structures and Data structures
           - Object-oriented programming and abstract data types
           - Python for data analysis: Input/output files. Statistical computation. Linear regression. Data visualization.
@@ -69,7 +69,7 @@ education:
     - degree: Diploma in Web programming Full stack with React JS
       university: National Technological University of Buenos Aires 
       time: 2022 - Present
-      details: |
+      details: 
         - 25 weeks
         - Full Stack Development in ReactJS and NodeJS.
         - https://sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/1969/diplomatura-en-programacion-web-full-stack-con-react-js
@@ -78,7 +78,7 @@ education:
     - degree: Developer Fundamentals Course
       institute: skillsoft
       time: 2021 - 2022
-      details: |
+      details: 
         Among the topics covered in the course are key programming fundamental concepts such as Object-Oriented Programming (OOP), databases, 
         and Software Development Life Cycle (SDLC) phases and models. In addition, the Developer Fundamentals Aspire course introduces concepts 
         related to software design and development principles.
